@@ -1,5 +1,7 @@
 # Memory-Game
-A simple memort game
+
+A simple memory game
 
 ## Getting Started
+
 Open the index.html in live server or locally
